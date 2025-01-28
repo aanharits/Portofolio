@@ -1,9 +1,9 @@
 // mengganti atau mengisi kata sambutan pada page pertama
-function replaceName() {
-  let name = prompt("What's Your Name?");
-  document.getElementById("name").innerHTML = name
-}
-replaceName()
+// function replaceName() {
+// let name = prompt("What's Your Name?");
+// document.getElementById("name").innerHTML = name
+// }
+// replaceName() 
 
 
 // animasi scroll agar terlihat lebih smooth
